@@ -2,13 +2,12 @@ body {
 	background-color: #FFFFCC;
 }
 
-h1 {
-	display: block;
-	font-family: "Helvetica Neue", sans-serif;
-	font-weight: 50;
-	font-size: 80px;
-	color: #3a3a3a;
+p {
 	text-align: center;
+	font-family: "Helvetica Neue", sans-serif;
+	font-weight: 20;
+	font-size: 20px;
+	color: #0066FF;
 	margin: 5% auto;
 }
 
