@@ -2,4 +2,4 @@ Pen . Party
 
 —
 
-:black_nib: :email: :confetti_ball:
+:pencil2: :email: :confetti_ball:
