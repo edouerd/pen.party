@@ -1,4 +1,4 @@
-Pen . Party
+Pen.Party
 
 —
 
